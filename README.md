@@ -1,2 +1,2 @@
-# ExerciseList
-The idea of ​​this repository will be to solve logic problems.
+# Consumes APIs
+The idea of ​​this repository will s consumed by a third party.
