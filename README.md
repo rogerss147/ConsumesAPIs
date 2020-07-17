@@ -1,2 +1,2 @@
-# ExerciseListHackerRank
-The idea of ​​this repository will be to solve hacker rank logic problems.
+# ExerciseList
+The idea of ​​this repository will be to solve logic problems.
